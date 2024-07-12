@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Victor Alberto!
 - 👀 Interessado em computação, desenvolvimento pessoal, videogames, automobilismo e animes.
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
-- 🛠️ Conhecimento: Python (intermediário).
+- 🚀 Never Stop Learning.
 - 📫 LinkedIn: https://linkedin.com/in/victor-alberto-dev
 
 <!---
