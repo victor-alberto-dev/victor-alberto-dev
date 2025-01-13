@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Victor Alberto!
 - 👀 Interessado em computação, desenvolvimento pessoal, videogames, automobilismo e animes.
-- 🌱 Atualmente estou aprendendo POO.
+- 🌱 Atualmente estou aprendendo POO e API.
 - 🚀 Never Stop Learning.
 - 📫 LinkedIn: https://linkedin.com/in/victor-alberto-dev
 
