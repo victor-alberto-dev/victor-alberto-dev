@@ -22,14 +22,6 @@ Aqui estão as tecnologias que estou explorando e utilizando em meus projetos:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-alberto-dev&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
----
-
 ### 📫 Conecte-se comigo!
 
 Estou sempre em busca de novas oportunidades e conexões. Sinta-se à vontade para entrar em contato:
