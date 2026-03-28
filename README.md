@@ -1,33 +1,75 @@
-### 👋 Olá! Eu sou o Victor Alberto.
+<div align="center">
 
-Sou um **estudante de Análise e Desenvolvimento de Sistemas** com uma grande paixão por tecnologia. Minha jornada no mundo do software é guiada pela curiosidade e pelo desejo de construir soluções eficientes e escaláveis.
+# `> Olá, eu sou o Victor Alberto` ☁️
 
----
+**Estudante de ADS | Estagiário de Cloud | Apaixonado por tecnologia**
 
-### 💻 Tecnologias e Ferramentas
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-alberto-dev)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/victoralbertodospassosholdingabpdt-1499/credentials/1ee57dfe7ba67cce?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
-Aqui estão as tecnologias que estou explorando e utilizando em meus projetos:
-
-<div align="left">
-  <img align="center" alt="Victor-Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Victor-Springboot" heigth="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Victor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Victor-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Godot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
-  <img align="center" alt="Victor-SQLite" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg">
-  
 </div>
 
 ---
 
-### 📫 Conecte-se comigo!
+## 👨‍💻 Sobre mim
 
-Estou sempre em busca de novas oportunidades e conexões. Sinta-se à vontade para entrar em contato:
+Sou um desenvolvedor em formação com foco em **Cloud Computing**, atualmente estagiando na área e construindo experiência real no mundo das nuvens. Gosto de entender como as coisas funcionam por baixo do capô, e de automatizar tudo que puder no caminho.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- ☁️ Estagiário de **Cloud**, trabalhando com **AWS** e **Azure**
+- 🤖 Fascinado por **automações** que resolvem problemas do dia a dia
+- 🔍 Curioso por natureza
+- 🎯 Em busca da minha primeira contratação como profissional de Cloud
+
+---
+
+## ☁️ Cloud & DevOps
+
+| Plataforma | Nível |
+|:---:|:---:|
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Estagiário ativo |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | Estudando ativamente |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Utilizando no dia a dia |
+
+---
+
+## 📜 Certificações
+
+| Badge | Certificação | Status |
+|:---:|:---:|:---:|
+| ![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft Azure Fundamentals | ✅ Conquistada |
+| ![AZ-104](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft Azure Administrator | 📚 Estudando |
+| ![AWS](https://img.shields.io/badge/AWS_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Cloud Practitioner | 🎯 Na mira |
+
+---
+
+## 🛠️ Stack Cloud
 
 <div align="left">
-  <a href="https://linkedin.com/in/victor-alberto-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img align="center" alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="AWS" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bash" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Power BI" height="40" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+  <img align="center" alt="Terraform" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+</div>
+
+---
+
+## 💡 O que me move
+
+```python
+victor = {
+    "foco":       ["Cloud Computing", "Automações", "Infraestrutura"],
+    "estudando":  ["AZ-104", "AWS Cloud Practitioner", "Redes de Computadores", "Linux"],
+    "objetivo":   "Apoiar minha equipe na construção e manutenção de ambientes cloud utilizando boas práticas."
+}
+```
+
+---
+
+<div align="center">
+
+*"Faça o seu melhor nas condições que você tem enquanto não tiver condições melhores para fazer melhor ainda"*
+
 </div>
