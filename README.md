@@ -52,6 +52,7 @@ Sou um desenvolvedor em formação com foco em **Cloud Computing**, atualmente e
   <img align="center" alt="Bash" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Power BI" height="40" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
   <img align="center" alt="Terraform" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Confluence" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
 </div>
 
 ---
