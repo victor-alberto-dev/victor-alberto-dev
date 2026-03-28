@@ -23,26 +23,6 @@ Sou um desenvolvedor em formação com foco em **Cloud Computing**, atualmente e
 
 ---
 
-## ☁️ Cloud & DevOps
-
-| Plataforma | Nível |
-|:---:|:---:|
-| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Estagiário ativo |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | Estudando ativamente |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Utilizando no dia a dia |
-
----
-
-## 📜 Certificações
-
-| Badge | Certificação | Status |
-|:---:|:---:|:---:|
-| ![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft Azure Fundamentals | ✅ Conquistada |
-| ![AZ-104](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft Azure Administrator | 📚 Estudando |
-| ![AWS](https://img.shields.io/badge/AWS_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Cloud Practitioner | 🎯 Na mira |
-
----
-
 ## 🛠️ Stack Cloud
 
 <div align="left">
