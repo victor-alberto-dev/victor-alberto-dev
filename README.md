@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> Olá, eu sou o Victor Alberto` ☁️
+# `> Olá, eu sou o Victor Alberto`
 
 **Estudante de ADS | Estagiário de Cloud | Apaixonado por tecnologia**
 
