@@ -55,6 +55,6 @@ victor = {
 
 <div align="center">
 
-*"Faça o seu melhor nas condições que você tem enquanto não tiver condições melhores para fazer melhor ainda"*
+*"Faça o seu melhor nas condições que tem enquanto não tiver condições melhores para fazer melhor ainda"*
 
 </div>
