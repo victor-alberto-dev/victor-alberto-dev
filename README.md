@@ -26,13 +26,17 @@ Sou um desenvolvedor em formação com foco em **Cloud Computing**, atualmente e
 ## 🛠️ Stack Cloud
 
 <div align="left">
-  <img alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img alt="AWS" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Bash" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img alt="Power BI" height="40" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  <img alt="Terraform" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-  <img alt="Confluence" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
+<table>
+  <tr>
+    <td><img alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></td>
+    <td><img alt="AWS" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></td>
+    <td><img alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+    <td><img alt="Bash" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></td>
+    <td><img alt="Power BI" height="40" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"></td>
+    <td><img alt="Terraform" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"></td>
+    <td><img alt="Confluence" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg"></td>
+  </tr>
+</table>
 </div>
 
 ---
