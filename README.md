@@ -46,7 +46,7 @@ Sou um desenvolvedor em formação com foco em **Cloud Computing**, atualmente e
 ```python
 victor = {
     "foco":       ["Cloud Computing", "Automações", "Infraestrutura"],
-    "estudando":  ["AZ-104", "AWS Cloud Practitioner", "Redes de Computadores", "Linux"],
+    "estudando":  ["AZ-104", "Networking", "Linux", "Terraform"],
     "objetivo":   "Apoiar minha equipe na construção e manutenção de ambientes cloud utilizando boas práticas."
 }
 ```
